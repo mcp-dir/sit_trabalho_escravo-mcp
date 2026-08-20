@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/sit_trabalho_escravo-mcp",
+  "title": "Secretaria de Inspeção do Trabalho: Trabalho Escravo",
+  "description": "Secretaria de Inspeção do Trabalho: Trabalho Escravo, official-source lookup. Platform-hosted, pay p",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/sit_trabalho_escravo-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_sit_trabalho_escravo"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "_comment": "Cole em .cursor/mcp.json (workspace) OU ~/.cursor/mcp.json (global). Reinicie o Cursor.",
+  "mcpServers": {
+    "sit_trabalho_escravo": {
+      "url": "https://api.mcp.ai/p_sit_trabalho_escravo"
+    }
+  }
+}
